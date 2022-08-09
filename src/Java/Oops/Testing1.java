@@ -8,6 +8,8 @@ public class Testing1 {
         cc.oil();
         cc.get();
        // System.out.println(cc.tire());//Unresolved compilation problem: 
+//check
+	
 	}
 
 }
